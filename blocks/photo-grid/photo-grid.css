@@ -1,6 +1,5 @@
 .photo-grid {
   display: grid;
-  
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
   -webkit-box-sizing: border-box;
@@ -28,7 +27,6 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
     gap: 16px;
-   
     margin: 88px 24px 0 24px;
   }
 }
@@ -39,7 +37,6 @@
     grid-template-columns: 1fr;
     grid-template-rows: repeat(12, 1fr);
     gap: 12px;
-    
     margin: 64px 16px 0 16px;
   }
 }
