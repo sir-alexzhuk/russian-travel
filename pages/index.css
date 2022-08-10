@@ -1,5 +1,6 @@
 /* vendor */
 @import url(../vendor/normalize.css);
+@import url(../vendor/font.css);
 /* Общие стили */
 @import url(../blocks/page/page.css);
 /* header */
