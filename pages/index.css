@@ -38,6 +38,7 @@
 /* cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__link/cover__link.css);
 @import url(../blocks/cover/__title/cover__title.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
